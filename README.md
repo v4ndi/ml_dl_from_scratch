@@ -2,6 +2,7 @@
 Implementations of some ml, dl algorithms from scratch
 
 ## ML
+* Metrics (MSE, MAE, R2, RMSE, Accuracy, ROC-AUC score, ROC curve, Precision, Recal, F1_score, Fb_score [source](./metrics)
 * LinearRegression - numpy only [source](linear_regression/model.py)
 * DecisionTree - numpy only implementation of DecisionTreeClassifier and DecisionTreeRegressor [source](./decision_tree)
 ## DL
